@@ -35,5 +35,20 @@ Weekly on Wednesday 14:00 - 15:00, `online`
 
 ## Communication channels
 
-Slack: ioslserviceaw-jcp6114.slack.com
-Telegram group
+- Slack: ioslserviceaw-jcp6114.slack.com
+- Telegram group
+- Discord channel
+
+### Resources for the project:
+
+- [Mermaid.js](https://mermaid.js.org/syntax/sequenceDiagram.html)
+- [DIDs](https://www.w3.org/TR/did-core/)
+- [VCs](https://www.w3.org/TR/vc-data-model-2.0/)
+
+### Resources for the team:
+
+Tech stack: [React.js](https://react.dev/) + [Next.js](https://nextjs.org/)
+
+- [Availability Calendar](https://www.when2meet.com/?22120383-fUKVU)
+- [Repository - linux OS needed](https://gitea.gchq.icu/IoSL/service-aware-frontend)
+- [Weekly Meeting on Wednesday](https://tu-berlin.zoom.us/j/61334541915?pwd=c3lmOXR0eW1hSDFvVE9wb0w2OG9aZz09)
