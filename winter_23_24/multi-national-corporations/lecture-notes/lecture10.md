@@ -98,7 +98,7 @@ Platform envelopment
 
 FSA = firm-specific advantages
 
-1. Digitalization enables the near-decomposability [i.e., modularity] of a firm's FSA into technology and human capital components.
+1. Digitalization enables the modularity of a firm's FSA into technology and human capital components.
 
 2. Digitalization increases the cross-border transferability of a firm‘s technology FSAs by enhancing its modularity and the firm's ability to bundle it with a local firm's FSA.
 
