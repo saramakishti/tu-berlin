@@ -18,3 +18,7 @@
 | When | Where | Registration | De-registration |
 | ---- | ----- | ------------ | --------------- |
 |      |       |              |                 |
+
+## Status
+
+Dropped out of this class

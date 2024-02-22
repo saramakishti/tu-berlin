@@ -3,7 +3,7 @@
 | Type                 | Dates                                           | Room              |
 | -------------------- | ----------------------------------------------- | ----------------- |
 | Introductory Session | October 25 2023 - Wednesday; 2:00 PM - 5:00 PM  | TEL Auditorium 20 |
-| Milestone Meeting    | December 06 2023 - Wednesday; 2:00 PM - 5:00 PM | TEL Auditorium 20 |
+| Milestone Meeting    | December 13 2023 - Wednesday; 2:00 PM - 5:00 PM | TEL Auditorium 20 |
 | Final Meeting        | January 31 2024 - Wednesday; 2:00 PM - 6:00 PM  | TEL Auditorium 20 |
 
 ## Selected Project: Interactive Visualisation for Trustful Service-Aware Network
@@ -52,3 +52,10 @@ Tech stack: [React.js](https://react.dev/) + [Next.js](https://nextjs.org/)
 - [Availability Calendar](https://www.when2meet.com/?22120383-fUKVU)
 - [Repository - linux OS needed](https://gitea.gchq.icu/IoSL/service-aware-frontend)
 - [Weekly Meeting on Wednesday](https://tu-berlin.zoom.us/j/61334541915?pwd=c3lmOXR0eW1hSDFvVE9wb0w2OG9aZz09)
+
+## Final Grade
+
+1. (Deliverable assessment) Implementation ?
+2. (Deliverable assessment) Presentations 9.65 / 12.5
+3. (Deliverable assessment) Project Report ?
+4. (Learning process review) Project Management ?

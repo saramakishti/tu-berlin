@@ -10,10 +10,10 @@
 
 Check `readme.md` file for each selected course
 
-#### Data Protection Law
+#### Data Protection Law (dropped?)
 
-#### Machine Learning I
+#### Machine Learning I (dropped)
 
-#### Multinational Corporations
-
-#### Internet of Services
+#### Multinational Corporations (registered)
+ 
+#### Internet of Services (registered)

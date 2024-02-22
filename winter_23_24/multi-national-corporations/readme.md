@@ -22,17 +22,17 @@
 
 ## Examinations & Registration
 
-### First Exam: 11:00 - 13:00 (60 minutes writing time)
+### First Exam: 2:30 - 4:30
 
-| When                     | Where  | Registration     | De-registration  |
-| ------------------------ | ------ | ---------------- | ---------------- |
-| Friday, 16 February 2024 | H 1012 | Until 05.11.2023 | Until 05.11.2023 |
+| When                       | Where  | Registration     | De-registration  |
+| -------------------------- | ------ | ---------------- | ---------------- |
+| Thursday, 22 February 2024 | H 0104 | Until 05.11.2023 | Until 05.11.2023 |
 
 ### Second Exam: TBD
 
-| When | Where | Registration | De-registration |
-| ---- | ----- | ------------ | --------------- |
-|      |       |              |                 |
+| When                    | Where  | Registration | De-registration |
+| ----------------------- | ------ | ------------ | --------------- |
+| Thursday, 11 April 2024 | H 1058 |              |                 |
 
 ## Zoom Link
 
@@ -44,3 +44,8 @@ Dial by your location
 +49 30 5679 5800 Deutschland
 +49 695 050 2596 Deutschland
 +49 69 7104 9922 Deutschland
+
+## Final Grade
+
+1. Student Presentation - 38/40
+2. Written Test - ?
