@@ -1,0 +1,1 @@
+Everything needed for this course could be found at [this repo](https://github.com/saramakishti/5g-mag)
